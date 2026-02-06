@@ -1,29 +1,33 @@
-### Hi there 👋
-This is a part of my story,
-I met Python and fell in love with, 
-I like problem solving, so my main tool became Python and its frameworks 
-I started working on different projects including backend programming and scientific programming, but I have found that I'm more of a problem solver than a programmer
-Then I found out that I like art and story telling. 
-Thanks GOD I'v met Data Science. So I can have all those together. So I started studying topics, and I came back here to share my tools and my path, as well. 
-So, that's it. :) 
+## 👋 About Me
 
-- 🔭 I’m currently working on filling my knowledge gaps
-- 🌱 I’m currently learning Data Science 
+Hi, I’m **Mohammad** 👨‍💻  
+A software developer with around **12 years of experience**, and a **Counseling graduate** exploring the field of **Cognitive Science**.
+
+I originally started in Electrical Engineering but changed paths in my final semester. Through my own experience with psychotherapy, I developed a deep interest in psychology, **psychoanalysis**, and the philosophical foundations of the mind. I’m currently working toward studying **cognitive science**, with a particular focus on **philosophy of mind** and the interface between mind, brain, and meaning.
+
+My main interest lies in building bridges between **technology, cognition, and human experience**.
+
+### 🧠 Interests
+- Software development and complex problem-solving
+- Cognitive science and philosophy of mind
+- Psychoanalysis and psychodynamic theory
+- Psychology, philosophy, literature, and science
+
+### 🛠️ Skills
+- Backend Development (Python, Web Services, Automation)
+- System design and architectural thinking
+- Analytical reasoning with a human-centered perspective
+- Interdisciplinary thinking across tech and mental health
+
+### 🌱 Currently
+- Preparing to study cognitive science
+- Deepening my understanding of mind, cognition, and subjectivity
+- Building meaningful, real-world software projects
+
+> I value precise, evidence-based, and conceptually rigorous thinking —  
+> not just validation, but **genuine growth**.
+
+---
+
+📫 Feel free to reach out if you’d like to talk about technology, cognitive science, or philosophy of mind.
 - 📫 How to reach me: emailto: gli.mhmd@gmail.com
-
-<!--
-**mohammadgoli/mohammadgoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
